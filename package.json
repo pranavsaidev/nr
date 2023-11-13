@@ -1,0 +1,30 @@
+{
+  "name": "nr",
+  "version": "1.0.0",
+  "description": "This project is to learn react",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theblackswann/nr.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "R. Pranav Sai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theblackswann/nr/issues"
+  },
+  "homepage": "https://github.com/theblackswann/nr#readme",
+  "devDependencies": {
+    "parcel": "^2.10.2",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}

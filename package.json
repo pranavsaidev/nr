@@ -2,7 +2,6 @@
   "name": "nr",
   "version": "1.0.0",
   "description": "This project is to learn react",
-  "main": "App.js",
   "scripts": {
     "test": "jest"
   },
@@ -26,5 +25,8 @@
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
-  }
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
 }

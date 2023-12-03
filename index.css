@@ -1,3 +1,38 @@
-#heading {
-    color: red;
+.navbar {
+    border: 1px solid black;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbar-navigation {
+    display: flex;
+}
+
+.navbar-navigation > li {
+    margin: 10px;
+    list-style: none;
+}
+
+.search-bar {
+    margin: 10px 0;
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.restaurant-card {
+    width: 350px;
+    margin: 20px;
+    border: 1px solid grey;
+    padding: 7px;
+}
+
+.restaurant-image {
+    width: 100%;
+}
+
+.restaurants {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
